@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665734268 source:c:\users\aidata\documents\codeblocks b\pointerornek\main.c
+	<stdio.h>
+	<stdlib.h>
+
